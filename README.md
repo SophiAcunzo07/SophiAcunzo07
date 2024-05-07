@@ -9,6 +9,7 @@
  💻  Mídias sociais<br>
  📲  Design de logotipos<br>
  🎥  Edição de vídeos<br>
+ 📉 Briefing <br>
 </div>
 
 <br>
@@ -27,4 +28,5 @@
     🔐 PRIVACIDADE E PROTEÇÃO DE DADOS (LGPD) (📍Escola SENAI de Informática)<br>
     🧩 DESIGN GRÁFICO (📍Unova Cursos)<br>
     📷PHOTOSHOP PARA SOCIAL MIDIA (📍Unova Cursos)<br>
+    📱 DESIGN DE MARCAS (📍Escola SENAI de Informática)<br>
   </div>
