@@ -10,6 +10,7 @@
  📲  Design de logotipos<br>
  🎥  Edição de vídeos<br>
  📉 Briefing <br>
+ 🎨 Illustrator 
 </div>
 
 <br>
